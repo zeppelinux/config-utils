@@ -1,0 +1,2 @@
+com.diligesoft.config.utils.cdi.ConfigMapConverter
+com.diligesoft.config.utils.cdi.ConfigListConverter
