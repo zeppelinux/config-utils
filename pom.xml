@@ -9,6 +9,7 @@
     <packaging>jar</packaging>
     <name>diligesoft config-utils</name>
     <description>Provides Map and List implementations for Microprofile config</description>
+    <url>https://github.com/zeppelinux/config-utils</url>
 
     <licenses>
         <license>
