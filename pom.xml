@@ -25,7 +25,6 @@
         </developer>
     </developers>
 
-
     <scm>
         <connection>scm:git:git@github.com:zeppelinux/config-utils.git</connection>
         <developerConnection>scm:git:ssh://github.com:zeppelinux/config-utils.git</developerConnection>
